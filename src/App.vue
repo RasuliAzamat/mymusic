@@ -42,43 +42,43 @@ export default {
         {
           title: 'The Weeknd',
           artist: 'After Hours',
-          src: require('./assets/The Weeknd - After Hours (Audio).mp3'),
+          src: require('../public/music/The Weeknd - After Hours (Audio).mp3'),
         },
         {
           title: 'The Weeknd',
           artist: 'Alone Again',
-          src: require('./assets/The Weeknd - Alone Again (Audio).mp3'),
+          src: require('../public/music/The Weeknd - Alone Again (Audio).mp3'),
         },
 
         {
           title: 'The Weeknd',
           artist: 'Blinding Lights',
-          src: require('./assets/The Weeknd - Blinding Lights (Official Video).mp3'),
+          src: require('../public/music/The Weeknd - Blinding Lights (Official Video).mp3'),
         },
         {
           title: 'The Weeknd',
           artist: 'Faith',
-          src: require('./assets/The Weeknd - Faith (Audio).mp3'),
+          src: require('../public/music/The Weeknd - Faith (Audio).mp3'),
         },
         {
           title: 'The Weeknd',
           artist: 'In Your Eyes',
-          src: require('./assets/The Weeknd - In Your Eyes (Audio).mp3'),
+          src: require('../public/music/The Weeknd - In Your Eyes (Audio).mp3'),
         },
         {
           title: 'he Weeknd',
           artist: 'Save Your Tears',
-          src: require('./assets/The Weeknd - Save Your Tears (Audio).mp3'),
+          src: require('../public/music/The Weeknd - Save Your Tears (Audio).mp3'),
         },
         {
           title: 'The Weeknd',
           artist: 'Too Late',
-          src: require('./assets/The Weeknd - Too Late (Audio).mp3'),
+          src: require('../public/music/The Weeknd - Too Late (Audio).mp3'),
         },
         {
           title: 'The Weeknd',
           artist: 'Until I Bleed Out',
-          src: require('./assets/The Weeknd - Until I Bleed Out (Audio).mp3'),
+          src: require('../public/music/The Weeknd - Until I Bleed Out (Audio).mp3'),
         },
       ],
       player: new Audio(),
